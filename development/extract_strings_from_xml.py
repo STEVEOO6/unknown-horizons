@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # ###################################################
-# Copyright (C) 2013 The Unknown Horizons Team
+# Copyright (C) 2009-2013 The Unknown Horizons Team
 # team@unknown-horizons.org
 # This file is part of Unknown Horizons.
 #
@@ -40,7 +40,7 @@ if len(sys.argv) != 2:
 	sys.exit(1)
 
 header = '''# ###################################################
-# Copyright (C) 2013 The Unknown Horizons Team
+# Copyright (C) 2009-2013 The Unknown Horizons Team
 # team@unknown-horizons.org
 # This file is part of Unknown Horizons.
 #
